@@ -1,5 +1,5 @@
-# springboot-getway-zuul-server
-## Getway Zuul Server	
+# springboot-getway-zuul
+## Getway Zuul	
 
 > Getway Zuul: 
 - Es una librería generada por Netflix para tener un solo punto de acceso (gateway) a todo los componentes que hacen parte de nuestro sistema. 
