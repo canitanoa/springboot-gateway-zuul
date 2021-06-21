@@ -1,7 +1,7 @@
-# springboot-getway-zuul
-## Getway Zuul	
+# springboot-gateway-zuul
+## Gateway Zuul	
 
-> Getway Zuul: 
+> Gateway Zuul: 
 - Es una librería generada por Netflix para tener un solo punto de acceso (gateway) a todo los componentes que hacen parte de nuestro sistema. 
 - Por medio de este podemos gestionar el acceso a diferentes microservicios en vez de que cada uno tenga un punto de acceso único.
 

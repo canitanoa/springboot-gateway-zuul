@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>ar.com.springboot.ms.zuul</groupId>
-	<artifactId>springboot-getway-zuul</artifactId>
+	<artifactId>springboot-gateway-zuul</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>springboot-getway-zuul</name>
-	<description>API Getway Zuul</description>
+	<name>springboot-gateway-zuul</name>
+	<description>API Gateway Zuul</description>
 	<properties>
 		<java.version>1.8</java.version>
 		<spring-cloud.version>Hoxton.SR11</spring-cloud.version>
