@@ -15,7 +15,25 @@
 			"response": []
 		},
 		{
+			"name": "/api/items/ver/{id}/cantidad/{cantidad}",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": null
+			},
+			"response": []
+		},
+		{
 			"name": "/api/productos/listar",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": null
+			},
+			"response": []
+		},
+		{
+			"name": "/api/productos/ver/{id}",
 			"request": {
 				"method": "GET",
 				"header": [],
